@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "img":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade2_71ded7bd-c2aa-4450-913b-bcee9510d594.jpg%3Fv%3D1673627346&w=256&q=75",
+        "description":"Limited-Edition La La Love 18HR Liquid Lipstick - 02 Scarlet Smitten",
+        "price":279
+    },
+    {
+        "id":2,
+        "img":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade4_5136ba1a-dfa5-4779-bae3-87761ab48886.jpg%3Fv%3D1673627360&w=256&q=75",
+        "description":"Limited-Edition La La Love 18HR Liquid Lipstick - 04 Mauve Mack",
+        "price":400
+    },
+    {
+        "id":3,
+        "img":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FShade3_382d542c-d346-4c1f-8dfb-0351b0d30d3e.jpg%3Fv%3D1673627354&w=256&q=75",
+        "description":"Limited-Edition La La Love 18HR Liquid Lipstick - 03 Berry Bliss",
+        "price":340
+    },
+    {
+        "id":4,
+        "img":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2Fa_00b52826-78d8-4da0-aba1-fbcbfb39dc33.jpg%3Fv%3D1688228539&w=256&q=75",
+        "description":"La La Love 18HR Liquid Lipstick - Set of 3",
+        "price":450
+    },
+    {
+        "id":5,
+        "img":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Ffiles%2F6_cf018ce6-c7d9-4ebf-9d00-3aa7433d41f0.jpg%3Fv%3D1706542931&w=256&q=75",
+        "description":"Limited-Edition La La Love 18HR Liquid Lipstick - 08 Peach Passion",
+        "price":768
+    }
+
+]
